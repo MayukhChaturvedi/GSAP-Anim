@@ -8,11 +8,10 @@ function App() {
 
   return (
   <>
-  <h1 className="text-5xl text-center font-bold underline">Gsap wali</h1>
+  <h1 className="text-5xl text-center font-bold underline">Gsap</h1>
   <Page/>
-  <h1 className="text-5xl text-center font-bold underline">Framer-motion vali</h1>
+  <h1 className="text-5xl text-center font-bold underline">Framer-motion</h1>
   <TextReveal/>
-  <h2 className="text-2xl text-center font-bold">animation dekhne ke liye page refresh karlena</h2>
   <Page2 />
   </>
   )
